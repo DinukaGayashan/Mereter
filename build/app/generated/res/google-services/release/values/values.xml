@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">381415076187-5hejfm6l0lmgvidhi0mdugnh7mqqkfgj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">381415076187</string>
+    <string name="google_api_key" translatable="false">AIzaSyAqY9pe8lP7E9DDONLQimzOt68APwulEzk</string>
+    <string name="google_app_id" translatable="false">1:381415076187:android:0db093cc25451bd882ea7e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAqY9pe8lP7E9DDONLQimzOt68APwulEzk</string>
+    <string name="google_storage_bucket" translatable="false">mereter-35f11.appspot.com</string>
+    <string name="project_id" translatable="false">mereter-35f11</string>
+</resources>

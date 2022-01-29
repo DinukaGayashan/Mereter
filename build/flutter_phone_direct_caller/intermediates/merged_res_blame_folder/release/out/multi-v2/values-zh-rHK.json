@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Semester4\\CO2207_Software_Engineering\\mereter\\build\\flutter_phone_direct_caller\\intermediates\\merged_res\\release\\values-zh-rHK\\values-zh-rHK.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\chath\\.gradle\\caches\\transforms-3\\69c67ca900e0542e6288a548d9174ea1\\transformed\\core-1.1.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Semester4\\CO2207_Software_Engineering\\mereter\\build\\flutter_phone_direct_caller\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zh-rHK\\values-zh-rHK.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\chath\\.gradle\\caches\\transforms-3\\69c67ca900e0542e6288a548d9174ea1\\transformed\\core-1.1.0\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Semester4\\CO2207_Software_Engineering\\mereter\\build\\firebase_auth\\intermediates\\merged_res\\release\\drawable-xxhdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\chath\\.gradle\\caches\\transforms-3\\7071acaf34e7d3423d522ebc983edebe\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable-xxhdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\Semester4\\CO2207_Software_Engineering\\mereter\\build\\firebase_auth\\intermediates\\merged_res\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\chath\\.gradle\\caches\\transforms-3\\7071acaf34e7d3423d522ebc983edebe\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Semester4\\CO2207_Software_Engineering\\mereter\\build\\firebase_auth\\intermediates\\merged_res\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\chath\\.gradle\\caches\\transforms-3\\7071acaf34e7d3423d522ebc983edebe\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Semester4\\CO2207_Software_Engineering\\mereter\\build\\firebase_auth\\intermediates\\merged_res\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\chath\\.gradle\\caches\\transforms-3\\7071acaf34e7d3423d522ebc983edebe\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Semester4\\CO2207_Software_Engineering\\mereter\\build\\firebase_auth\\intermediates\\merged_res\\release\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\chath\\.gradle\\caches\\transforms-3\\7071acaf34e7d3423d522ebc983edebe\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Semester4\\CO2207_Software_Engineering\\mereter\\build\\firebase_auth\\intermediates\\merged_res\\release\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\chath\\.gradle\\caches\\transforms-3\\7071acaf34e7d3423d522ebc983edebe\\transformed\\jetified-play-services-base-17.1.0\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
+    }
+]

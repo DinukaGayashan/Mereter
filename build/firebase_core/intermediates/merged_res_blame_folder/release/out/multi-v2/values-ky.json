@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Semester4\\CO2207_Software_Engineering\\mereter\\build\\firebase_core\\intermediates\\merged_res\\release\\values-ky\\values-ky.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\chath\\.gradle\\caches\\transforms-3\\69c67ca900e0542e6288a548d9174ea1\\transformed\\core-1.1.0\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "326",
+                        "endColumns": "100",
+                        "endOffsets": "422"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\chath\\.gradle\\caches\\transforms-3\\e2d7df644da1317f2a6ac8db9f315cdf\\transformed\\jetified-play-services-basement-17.0.0\\res\\values-ky\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "220",
+                        "endOffsets": "467"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "220",
+                        "endOffsets": "321"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Semester4\\CO2207_Software_Engineering\\mereter\\build\\firebase_core\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ky\\values-ky.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\chath\\.gradle\\caches\\transforms-3\\69c67ca900e0542e6288a548d9174ea1\\transformed\\core-1.1.0\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "326",
+                        "endColumns": "100",
+                        "endOffsets": "422"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\chath\\.gradle\\caches\\transforms-3\\e2d7df644da1317f2a6ac8db9f315cdf\\transformed\\jetified-play-services-basement-17.0.0\\res\\values-ky\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "220",
+                        "endOffsets": "467"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "220",
+                        "endOffsets": "321"
+                    }
+                }
+            ]
+        }
+    ]
+}

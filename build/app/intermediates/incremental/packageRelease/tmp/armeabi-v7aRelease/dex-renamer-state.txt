@@ -1,0 +1,4 @@
+#Mon Dec 13 13:32:58 IST 2021
+base.0=D\:\\Semester4\\CO2207_Software_Engineering\\mereter\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

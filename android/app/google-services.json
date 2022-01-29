@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381415076187",
+    "project_id": "mereter-35f11",
+    "storage_bucket": "mereter-35f11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381415076187:android:0db093cc25451bd882ea7e",
+        "android_client_info": {
+          "package_name": "com.chathurinda.mereter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381415076187-5hejfm6l0lmgvidhi0mdugnh7mqqkfgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqY9pe8lP7E9DDONLQimzOt68APwulEzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381415076187-5hejfm6l0lmgvidhi0mdugnh7mqqkfgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
