@@ -1,4 +1,4 @@
-# mereter
+# MERETER
 
 A new Flutter project.
 
